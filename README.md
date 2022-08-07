@@ -1,4 +1,4 @@
-# terraform-aws-aws_linux_vm_private
+# terraform-aws-aws-linux-vm-private
 
 The purpose of this module is to spin up a test server in private subnet quickly.
 
