@@ -11,7 +11,7 @@ The purpose of this module is to spin up a test server in private subnet quickly
 ```terraform
 module "aws-linux-vm-private" {
   source  = "jye-aviatrix/aws-linux-vm-private/aws"
-  version = "1.0.3"
+  version = "1.0.4"
   key_name  = "key-pair"
   region    = "us-east-1"
   vm_name   = "private1"
